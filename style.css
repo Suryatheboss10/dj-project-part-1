@@ -1,0 +1,28 @@
+.Note{
+   font-size: 24px;
+   color: white;
+}
+
+.header{
+    font-size: 30px;
+    color: white;
+    margin:0px;
+    width: 100%;
+}
+
+#Song{
+    border-radius: 20px;
+    color: whitesmoke;
+    box-shadow: 5px, 5px, 5px whitesmoke;
+    margin-top: 5px;
+    padding:10px;
+}
+
+canvas{
+    box-shadow: 5px, 5px, 5px, skyblue;
+    border: solid black;
+}
+
+body{
+    background: cover;
+}
